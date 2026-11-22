@@ -1,0 +1,326 @@
+Sistema ejecutado correctamente.
+Sistema ejecutado correctamente.
+Sistema ejecutado correctamente.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+La reserva debe estar confirmada.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
+Todos los datos del cliente son obligatorios.
+El correo electronico no es valido.
+La cantidad de noches debe ser mayor a cero.
+Reserva confirmada.
+Reserva procesada.
+Finalizo el intento de procesar la reserva.
+Reserva cancelada.
+La reserva debe estar confirmada.
+Finalizo el intento de procesar la reserva.
+Sistema ejecutado correctamente.
+No se pudo convertir el dato.
